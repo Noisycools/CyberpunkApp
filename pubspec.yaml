@@ -75,6 +75,12 @@ flutter:
     - family: Cyberpunk
       fonts:
         - asset: fonts/Cyberpunk.ttf
+    - family: OverThere
+      fonts:
+        - asset: fonts/OverThere.ttf
+    - family: Aero
+      fonts:
+        - asset: fonts/Aero.ttf
 
   #
   # For details regarding fonts from package dependencies,
